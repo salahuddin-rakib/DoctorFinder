@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "doctor_finder_font";
+}
+
+* {
+    font-family: Montserrat;
+}
+
+.header {
+
+}
+
+.header .right {
+    margin-left:5em;
+    margin-right:0;
+}
+
+.body {
+
+}
+
+.footer {
+    background: #b61924;
+    color: white;
+    font-size: 12px;
+}
+
+.footer i {
+    padding: .5em;
+    font-size: 2em;
+}
+
+
+.footer p.title {
+    font-size: 15px;
+}
+
+.footer ul{
+    list-style-type: none;
+}
